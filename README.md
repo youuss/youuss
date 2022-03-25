@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youuss&theme=cobalt2&show_icons=true)
+![youus's GitHub stats](https://github-readme-stats.vercel.app/api?username=youuss&theme=cobalt2&show_icons=true)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=youuss&show_icons=true&theme=tokyonight)
-<p align='left'>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youuss&bg_color=071A2C&line_height=20&text_color=FFFFFF" alt="light-city's top langs"/>
-</p>
+![youus's contribution graph](https://activity-graph.herokuapp.com/graph?username=youuss&theme=redical)
 
 
 ## 🌎 Find me
