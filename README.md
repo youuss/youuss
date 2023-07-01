@@ -38,3 +38,24 @@
 ![ESBuild](https://custom-icon-badges.demolab.com/badge/-ESBuild-%238DD6F9?logo=ESBuild&logoColor=white)
 ![Vitest](https://custom-icon-badges.demolab.com/badge/-Vitest-%23646CFF?logo=Vitest&logoColor=white)
 ![Jest](https://custom-icon-badges.demolab.com/badge/-Jest-%23C21325?logo=Jest&logoColor=white)
+
+## 🏆 Stats Rank
+<!-- Light Mode -->
+<div align="center"> 
+    <a href="https://youuss.com#gh-light-mode-only">
+        <img align=top width=48% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=youuss&layout=compact&langs_count=12&card_width=347&hide_border=true&role=owner,collaborator&title_color=861717&text_color=861717&icon_color=861717&theme=default&#gh-light-mode-only" alt="youuss's Language stats" />
+    </a>
+    <a href="https://youuss.com#gh-light-mode-only">
+        <img width=48% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=youuss&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&title_color=861717&text_color=878787&icon_color=861717&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="youuss's Github stats" />
+    </a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+    <a href="https://youuss.com#gh-dark-mode-only">
+        <img align=top width=48% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=youuss&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&title_color=ffffff&text_color=ffffff&icon_color=ffffff&theme=dark&bg_color=0F142320#gh-dark-mode-only" alt="youuss's Language stats" />
+    </a>
+    <a href="**https://youuss.com#gh-dark-mode-only">
+        <img width=48% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=youuss&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=0F142320&title_color=861717&text_color=ffffff&icon_color=ffffff#gh-dark-mode-only" alt="youuss's Github stats" />
+    </a>
+</div>
