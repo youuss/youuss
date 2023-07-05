@@ -59,3 +59,5 @@
         <img width=48% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=youuss&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=0F142320&title_color=861717&text_color=ffffff&icon_color=ffffff#gh-dark-mode-only" alt="youuss's Github stats" />
     </a>
 </div>
+## 🎵 Recently Played
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=446681157&number=8&column=2&size=60)](https://netease-recent-profile.vercel.app/?id=446681157&number=8&column=2&size=60)
