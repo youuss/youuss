@@ -62,4 +62,4 @@
 
 ## 🎵 Recently Played
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=446681157&number=8&column=2&size=60)](https://netease-recent-profile.vercel.app/?id=446681157&number=8&column=2&size=60)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=446681157&theme=card&size=300)](https://netease-recent-profile.vercel.app/?id=446681157&theme=card&size=300)
