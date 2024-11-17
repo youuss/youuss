@@ -3,7 +3,7 @@
 $ ln -s youuss/youuss/README.md
 ```
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40youuss-239a3b.svg)](https://github.com/youuss)
+[![GitHub](https://img.shields.io/badge/GitHub-%40youuss-367fec.svg)](https://github.com/youuss)
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 
 
